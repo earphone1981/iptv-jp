@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.djtmewibu.com/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
 
@@ -128,9 +128,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=6&bi
 #EXTINF:-1 group-title="Pay Channel" tvg-id="bs_shochiku_tokyu" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/l6kArOPkx3rCe-BY5PGk5Q==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS松竹東急
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380926&sign=6346ec716f9c73ecce541b471ce81a20ed521c47665b085bb075ffd9eba93328
 
-#EXTINF:-1 group-title="Pay Channel" tvg-id="" tvg-logo="https://i.imgur.com/IMVATzR.jpeg", ダウンタウンのガキの使いやあらへんで! （English Subs） 
-https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-
 #EXTINF:-1 group-title="Pay Channel" tvg-id="animax" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-149-400x400.png", アニマックス *SD  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380926&sign=6346ec716f9c73ecce541b471ce81a20ed521c47665b085bb075ffd9eba93328
 
@@ -213,16 +210,3 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=6&bi
 
 #EXTINF:-1 group-title="NEWS" tvg-id="tbs_news" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png", TBSニュース
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380926&sign=6346ec716f9c73ecce541b471ce81a20ed521c47665b085bb075ffd9eba93328
-
-#EXTINF:-1 group-title="NEWS" tvg-id="japanews24" tvg-logo="https://i.imgur.com/7HJuXum.png",JapaNews24
-https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
-
-#others
-#EXTINF:-1 group-title="others" tvg-id="shopch" tvg-logo="https://pbs.twimg.com/profile_images/1377428037898174464/COSpE4pe_200x200.jpg",ショップチャンネル
-https://stream3.shopch.jp/HLS/master.m3u8
-
-#EXTINF:-1 group-title="others" tvg-id="qvc" tvg-logo="https://i.imgur.com/4vudzBk.jpeg",QVC
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-
-#EXTINF:-1 group-title="others" tvg-id="gstv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-192-400x400.png",ジュエリー☆GSTV
-https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
