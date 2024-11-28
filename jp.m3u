@@ -69,7 +69,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=6&bi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380909&sign=8a276f69153b498529df2f6706775d2ff51545bfb8cfdcff88c2b36f28df8f9a
 #EXTINF:-1 group-title="Pay Channel" tvg-id="wowow_cinema" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",WOWOW シネマ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380909&sign=8a276f69153b498529df2f6706775d2ff51545bfb8cfdcff88c2b36f28df8f9a
-#EXTINF:-1 group-title="Pay Channel" tvg-id="グリーンチャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル
+#EXTINF:-1 group-title="Pay Channel" tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380909&sign=8a276f69153b498529df2f6706775d2ff51545bfb8cfdcff88c2b36f28df8f9a
 #EXTINF:-1 group-title="Pay Channel" tvg-id="star_channel" tvg-logo="https://i.imgur.com/J9TqraY.jpeg",スターチャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380909&sign=8a276f69153b498529df2f6706775d2ff51545bfb8cfdcff88c2b36f28df8f9a
