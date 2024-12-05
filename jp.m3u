@@ -141,7 +141,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=7&bi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
 #EXTINF:-1 group-title="Pay Channel" tvg-id="animal_planet" tvg-logo="https://i.imgur.com/xiVDrwH.jpeg",アニマルプラネット
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
-EXTINF:-1 group-title="Pay Channel" tvg-id="discovery" tvg-logo="https://i.imgur.com/mtBgncX.jpeg", ディスカバリーチャンネル
+#EXTINF:-1 group-title="Pay Channel" tvg-id="discovery" tvg-logo="https://i.imgur.com/mtBgncX.jpeg", ディスカバリーチャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
 #EXTINF:-1 group-title="Pay Channel" tvg-id="history" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-134-400x400.png", ヒストリーチャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
