@@ -213,15 +213,15 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=7&bi
 #TVerﾘｱﾙﾀｲﾑ
 
 #EXTINF:-1 player-buffer="20" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="TVerﾘｱﾙﾀｲﾑ",テレビ東京 (Tver)
-https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/c2f85d4b-f66a-4855-bfc9-8d17cd5307cd/0.m3u8?pdt=-11385&session=c2f85d4b-f66a-4855-bfc9-8d17cd5307cd&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExMzg1In0.5glzhEJvYur29k5H8AisZ4B7rCToUIGzX0LyHqP-d1g
+https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/466f1c47-7d1f-495e-97ad-2254218237e2/0.m3u8?pdt=-10318&session=466f1c47-7d1f-495e-97ad-2254218237e2&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTEwMzE4In0.QwekGV-wn4xpWA7yfwVYCSQqhDNbi_ThuKYI31TZtWw
 #EXTINF:-1 player-buffer="20" tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png" group-title="TVerﾘｱﾙﾀｲﾑ",テレビ朝日 (Tver)
 https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/656be9f3-4666-475d-864b-d303e4dfee70/0.m3u8?pdt=-16832&session=656be9f3-4666-475d-864b-d303e4dfee70&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2ODMyIn0.hzLsEubOxXatgDgLFRdXtF6ppe4iI5qXpQK0yl663O4
 #EXTINF:-1 player-buffer="20" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg" group-title="TVerﾘｱﾙﾀｲﾑ",フジテレビ (Tver)
 https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/34dcf709-6c37-4110-9bda-23d4747c101e/0.m3u8?pdt=-6627&session=34dcf709-6c37-4110-9bda-23d4747c101e&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM
 #EXTINF:-1 player-buffer="20" tvg-id="tbs" tvg-logo="https://i.imgur.com/97Eiqg8.jpeg", group-title="TVerﾘｱﾙﾀｲﾑ",TBS (Tver)
-https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/de8ee914-fc2c-438c-9fb3-4962397cd7f5/0.m3u8?pdt=-8924&session=de8ee914-fc2c-438c-9fb3-4962397cd7f5&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii04OTI0In0.y1DoEUIvqZ3_PJECGo4l0ydnc8Wf5A-blopSDAV7ifw
+https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/30b1a4f0-6182-4d22-bdca-7329dda83aea/0.m3u8?pdt=-9204&session=30b1a4f0-6182-4d22-bdca-7329dda83aea&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MjA0In0.vkyJg6CrZjXP9jAvZQA03trLwkBKymc0fbzVZ5Iamf4
 #EXTINF:-1 player-buffer="20" tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg" group-title="TVerﾘｱﾙﾀｲﾑ",日本テレビ (Tver)
-https://ssai-variants.streaks.jp/v5/tver-simul-ntv/3865af1a962349ceaa5efe46008030db/ed089bc4b7f342b3bc8a7a2567039442/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-174-7969/161e9042-3213-49c4-87c8-8213d3e7dcd2/0.m3u8?pdt=-9048&session=161e9042-3213-49c4-87c8-8213d3e7dcd2&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibnR2LWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MDQ4In0._98Lj9-sckhmGCGRWKaZwBjak7wqf27hcLKXlsITtmY
+https://ssai-variants.streaks.jp/v5/tver-simul-ntv/3865af1a962349ceaa5efe46008030db/ed089bc4b7f342b3bc8a7a2567039442/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-174-7969/31581135-c95e-461c-8359-6e5f1bee4ae4/0.m3u8?pdt=-8391&session=31581135-c95e-461c-8359-6e5f1bee4ae4&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibnR2LWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii04MzkxIn0.iR6ufMBLzx1XeXvt2IDiZmDizNUWbZTmJW6hKMBhhS0
 
 #在阪キー局
 
@@ -298,6 +298,8 @@ http://luong.utako.moe/suntv/index.m3u8
 #競馬
 
 #EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="競馬",グリーンチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=4
+#EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="競馬",グリーンチャンネル1st
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
 #EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="競馬",グリーン チャンネル2nd
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380893&sign=ca849dc6608a1dc0afb2559343d13bf779f7a6542b2ec260d8e8887f8c2e03cf
@@ -319,13 +321,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bi
 #競馬民放Ch
 
 #EXTINF:-1 group-title="競馬民放Ch" tvg-id="tokyo_mx" tvg-logo="https://i.imgur.com/3qhjzsB.jpeg", TOKYO MX
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=4
 #EXTINF:-1 group-title="競馬民放Ch" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg", フジテレビ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=4
 #EXTINF:-1 group-title="競馬民放Ch" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg", フジテレビ2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
 #EXTINF:-1 group-title="競馬民放Ch" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/ji2Sueo.jpeg", テレビ東京
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=4
 #EXTINF:-1 group-title="競馬民放Ch" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/ji2Sueo.jpeg", テレビ東京2
 http://103.255.250.202:5002/gd07.m3u8?token=1ca7ca77aa446a6f4591f91bafd6181e78fac6a2e797579f155e56f9dc736ca0&gid=bs04&channel=zhongying
 #EXTINF:-1 player-buffer="20" group-title="競馬民放Ch" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
@@ -333,12 +335,129 @@ http://vthanh.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="競馬民放Ch" tvg-id="bs_fuji" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png", BSフジ
 http://103.255.250.202:5002/bs06.m3u8?token=87506d1c7ec438d447021b7700cb406a5e4cec64b563f11e35de2ef1c42e04e7&gid=bs20&channel=zhongying
 #EXTINF:-1 group-title="競馬民放Ch" tvg-id="bs_fuji" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png", BSフジ2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=7&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=4
 #EXTINF:-1 group-title="競馬民放Ch" tvg-id="bs_tvtokyo" tvg-logo="https://i.imgur.com/m9LZUQP.jpeg", BSテレ東
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=7&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=4
 #EXTINF:-1 group-title="競馬民放Ch" tvg-id="sun_tv" tvg-logo="https://i.pinimg.com/474x/f2/84/98/f284984badded818e289616e7e50c318.jpg", サンテレビ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380926&sign=6346ec716f9c73ecce541b471ce81a20ed521c47665b085bb075ffd9eba93328
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=4
 #EXTINF:-1 group-title="競馬民放Ch" tvg-id="JODX-DTV" tvg-logo="https://i.imgur.com/gr54fEO.jpeg", KTV関西テレビ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380926&sign=6346ec716f9c73ecce541b471ce81a20ed521c47665b085bb075ffd9eba93328
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=4
 #EXTINF:-1 player-buffer="20" group-title="競馬民放Ch" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
 http://luong.utako.moe/kbs/index.m3u8
+
+#primenew
+
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JOAYDTV.jp",ABC (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="Animax.jp",Animax (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="BSAsahi.jp",BS Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="BSFuji.jp",BS Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="BSNipponTV.jp",BS Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="BSShochikuTokyu.jp",BS Shochiku Tokyu (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="BSTBS.jp",BS TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="BSTVTokyo.jp",BS TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="ChannelGinga.jp",Channel Ginga (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="DisneyChannel.jp",Disney Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="EiseiGekijo.jp",Eisei Gekijo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="FamilyGekijyo.jp",Family Gekijo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JOCXDTV.jp",Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="FujiTVNEXT.jp",Fuji TV NEXT (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="GAORASPORTS.jp",Gaora Sports (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="GolfNetwork.jp",Golf Network (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="GreenChannel.jp",Green Channel (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="History.jp",History Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="HomeDramaChannel.jp",Home Drama Channel (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JSPORTS1.jp",J Sports 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JSPORTS2.jp",J Sports 2 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JSPORTS3.jp",J Sports 3 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JSPORTS4.jp",J Sports 4 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JidaigekiSenmonChannel.jp",Jidaigeki Senmon (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JODXDTV.jp",Kansai TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="KayoPops.jp",Kayo Pops (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="KidsStation.jp",Kids Station (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="LaLaTV.jp",LaLa TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JOOYDTV.jp",MBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="MONDOTV.jp",Mondo TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="MoviePlus.jp",Movie Plus (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="MTV.jp",MTV Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="MusicJapanTV.jp",Music Japan TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="NationalGeographic.jp",National Geographic Japan (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="NHKBS.jp",NHK BS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="NHKBSP4K.jp",NHK BSP4K (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JOABDTV.jp",NHK E (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JOBKDTV.jp",NHK G (Osaka) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JOAKDTV.jp",NHK G (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="NihonEigaSenmonChannel.jp",Nihon Eiga Senmon (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JOAXDTV.jp",Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="NitteleGPlus.jp",Nittele G Plus (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="SpaceShowerTV.jp",Space Shower TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JOUHDTV.jp",Sun TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="TABIChannel.jp",Tabi Channel (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="TAKARAZUKASKYSTAGE.jp",TAKARAZUKA SKY STAGE (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JORXDTV.jp",TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="TBSNewsCS.jp",TBS News (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="ToeiChannel.jp",Toei Channel (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JOMXDTV.jp",Tokyo MX1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JOEXDTV.jp",TV Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JOBHDTV.jp",TV Osaka (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JOTXDTV.jp",TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="WOWOWCinema.jp",WOWOW Cinema (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="WOWOWLive.jp",WOWOW Live (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="WOWOWPrime.jp",WOWOW Prime (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=4
+#EXTINF:-1 player-buffer="20" group-title="primenew" tvg-id="JOIXDTV.jp",YTV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=4
