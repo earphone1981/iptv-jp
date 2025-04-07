@@ -2,18 +2,36 @@
 
 #Key Station
 
-#EXTINF:-1 player-buffer="20" group-title="Key Station" tvg-id="nhkg_tokyo" tvg-logo="https://i.imgur.com/mAR2Jlh.jpeg", NHK G *SD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
-#EXTINF:-1 player-buffer="20" group-title="Key Station" tvg-id="nhke_tokyo" tvg-logo="https://i.imgur.com/peRnlJo.jpeg", NHK E *SD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
-#EXTINF:-1 player-buffer="20" group-title="Key Station" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg", フジテレビ *SD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
-#EXTINF:-1 player-buffer="20" group-title="Key Station" tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg",日本テレビ *SD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
-#EXTINF:-1 player-buffer="20" group-title="Key Station" tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png", テレビ朝日 *SD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
-#EXTINF:-1 player-buffer="20" group-title="Key Station" tvg-id="tbs" tvg-logo="https://i.imgur.com/97Eiqg8.jpeg", TBS *SD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
+#EXTINF:-1 player-buffer="10" group-title="Key Station" tvg-id="nhkg_tokyo" tvg-logo="https://i.imgur.com/mAR2Jlh.jpeg", NHK G *SD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=2
+#EXTINF:-1 player-buffer="10" group-title="Key Station" tvg-id="nhke_tokyo" tvg-logo="https://i.imgur.com/peRnlJo.jpeg", NHK E *SD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=2
+#EXTINF:-1 player-buffer="10" group-title="Key Station" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg", フジテレビ *SD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=2
+#EXTINF:-1 player-buffer="10" group-title="Key Station" tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg",日本テレビ *SD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=2
+#EXTINF:-1 player-buffer="10" group-title="Key Station" tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png", テレビ朝日 *SD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=2
+#EXTINF:-1 player-buffer="10" group-title="Key Station" tvg-id="tbs" tvg-logo="https://i.imgur.com/97Eiqg8.jpeg", TBS *SD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=2
+#EXTINF:-1 player-buffer="10" group-title="Key Station" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/ji2Sueo.jpeg", テレビ東京 *SD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=2
+#EXTINF:-1 player-buffer="10" group-title="Key Station" tvg-id="tokyo_mx" tvg-logo="https://i.imgur.com/3qhjzsB.jpeg", TOKYO MX *SD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=2
+#EXTINF:-1 player-buffer="10" group-title="Key Station" tvg-id="nhk_bs" tvg-logo="https://i.imgur.com/Y2ZfWLk.jpeg", NHK BS1*SD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=2
+#EXTINF:-1 player-buffer="20" group-title="Key Station" tvg-id="nhk_bsp4k" tvg-logo="https://i.imgur.com/cqZMier.jpeg", NHK BSP 4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=2
+#EXTINF:-1 player-buffer="20" group-title="Key Station" tvg-id="bs_fuji" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png", BSフジ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=2
+#EXTINF:-1 player-buffer="20" group-title="Key Station" tvg-id="bs_ntv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png", BS日テレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=2
+#EXTINF:-1 player-buffer="10" group-title="Key Station" tvg-id="bs_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png", BS朝日  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=2
+#EXTINF:-1 player-buffer="10" group-title="Key Station" tvg-id="bs_tbs" tvg-logo="https://i.imgur.com/kXx1zKO.jpeg", BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=2
+#EXTINF:-1 player-buffer="10" group-title="Key Station" tvg-id="bs_tvtokyo" tvg-logo="https://i.imgur.com/m9LZUQP.jpeg", BSテレ東
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=2
 
 #Key Station2
 
